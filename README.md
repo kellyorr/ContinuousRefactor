@@ -1,6 +1,6 @@
 ## Adding a T-Shirt Sizing Column to JIRA
 
-<img src="https://wac-cdn.atlassian.com/dam/jcr:378c3943-e4b8-4870-9db5-7bc2773d17a3/jirasoftware_rgb_blue_updated.png?cdnVersion=ex)" width="100">
+<img src="https://wac-cdn.atlassian.com/dam/jcr:378c3943-e4b8-4870-9db5-7bc2773d17a3/jirasoftware_rgb_blue_updated.png?cdnVersion=ex)" width="150">
 
 ### Add the custom field
 - On any screen in the upper right corner, click the Administration cog icon.
