@@ -1,6 +1,6 @@
 # ContinuousRefactor
 
-## dding a T-Shirt Sizing Column to JIRA
+## Adding a T-Shirt Sizing Column to JIRA
 
 ### Add the custom field
 - On any screen in the upper right corner, click the Administration cog icon.
