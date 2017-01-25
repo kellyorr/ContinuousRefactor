@@ -1,5 +1,3 @@
-# ContinuousRefactor
-
 ## Adding a T-Shirt Sizing Column to JIRA
 
 ### Add the custom field
