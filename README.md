@@ -10,7 +10,8 @@
 - On the 'Select a Field Type' screen under 'Standard', select 'Select List (multiple choices)' and click 'Next'.
 - Specify value:
   - Name: "T-Shirt Size"
-  - Options: "S", click 'Add'.  Repeat for M, L, XL.
+  - Options: "S", click 'Add'
+  - Repeat for M, L, XL.
 - Click the 'Create' button
 - Back on the 'Custom fields', page scroll down and find 'T-Shirt Size'.
 - Click the Settings cog.  In the pulldown menu, select 'Screens'.
